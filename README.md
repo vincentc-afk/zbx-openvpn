@@ -11,7 +11,7 @@
 - chmod -R 750 /opt/zabbix/
 - chown -R root:zabbix /opt/zabbix/
 - chown root:zabbix /etc/openvpn/ipp.txt
-- chown root:zabbix /etc/openvpn/openvon-status.log
+- chown root:zabbix /etc/openvpn/openvpn-status.log
 
 #### Check bash script(Out json):
 - /opt/zabbix/openvpn-discovery.sh
