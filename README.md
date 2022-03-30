@@ -13,7 +13,7 @@
 - chown root:zabbix /etc/openvpn/ipp.txt
 - chown root:zabbix /etc/openvpn/openvpn-status.log
 
-#### Check bash script(Out json):
+#### Check bash script :
 - /opt/zabbix/openvpn-discovery.sh
 
 #### Add from zabbix_agentd.conf "UserParameter" in zabbix_agentd.conf:
